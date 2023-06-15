@@ -24,7 +24,7 @@ img{
 h2{
     margin-top: 200px;
 }
-h1,h2{
+h1,h2,h4,h5,h6{
 color: white;
 font-family:'Rokkitt', sans-serif;
 }
@@ -34,7 +34,7 @@ h3{
 p{
     font-family:'Robotto', sans-serif;
 }
-.p1,.p2{
+.p1,.p2,.p3{
     color: white;
 }
 .p1{
@@ -52,4 +52,33 @@ p{
 .btn{
     color: white;
     font-family: '';
+}
+.block1{
+
+}
+.fond{
+    height: 100%;
+    width: 100% ;
+    background:url(../images/bg_nuage.jpg) top center fixed no-repeat;
+    background-size: cover;
+}
+#bcgblue{
+    height: 100%;
+    background-color: rgba(141, 201, 227, 0.573);
+}
+#containerbcgwhite{
+    background-color: white;
+}
+.card{
+
+    background: none;
+}
+.fondcamera{
+    height: 100%;
+    width: 100% ;
+    background:url(../images/bg_appareil_photo.jpg) top center fixed no-repeat;
+    background-size: cover;
+}
+#velo{
+    width:400px;
 }

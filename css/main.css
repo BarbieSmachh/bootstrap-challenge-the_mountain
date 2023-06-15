@@ -18,7 +18,7 @@ header{
     left: 0;
     z-index: 10;
 }
-img{
+.navbar-brand img{
     width: 120px;
 }
 h2{
@@ -53,9 +53,6 @@ p{
     color: white;
     font-family: '';
 }
-.block1{
-
-}
 .fond{
     height: 100%;
     width: 100% ;
@@ -82,3 +79,7 @@ p{
 #velo{
     width:400px;
 }
+.mosaique{
+    background-color:#dddddd;
+}
+

@@ -21,7 +21,7 @@ header{
 .navbar-brand img{
     width: 120px;
 }
-h2{
+.h2{
     margin-top: 200px;
 }
 h1,h2,h4,h5,h6{
@@ -82,4 +82,18 @@ p{
 .mosaique{
     background-color:#dddddd;
 }
-
+.fondbookblur{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.507),rgba(0, 0, 0, 0.457)),  url(../images/bg_newsletter.jpg);
+}
+span{
+    color: #30a4b0;
+}
+.footer{
+    background-color: #24323b;
+}
+svg{
+    fill: white;
+}
+.svggreen{
+    fill:  #30a4b0;
+}

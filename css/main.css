@@ -23,6 +23,8 @@ header{
 }
 .h2{
     margin-top: 200px;
+    color: white;
+    font-family:'Rokkitt'
 }
 h1,h2,h4,h5,h6{
 color: white;
@@ -96,4 +98,7 @@ svg{
 }
 .svggreen{
     fill:  #30a4b0;
+}
+.svgblack{
+    fill: black;
 }
